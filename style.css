@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: rgb(40, 40, 141);
+    border: rgb(40, 40,141);
+    border-radius: 5px;
+    border-width: 20px;
+}
+strong {
+    color: white;
+}
